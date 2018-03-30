@@ -25,7 +25,10 @@ Não há dicas.
 
 
 
-
+`@solution`
+```{python}
+print("Hello, world!")
+```
 
 
 
