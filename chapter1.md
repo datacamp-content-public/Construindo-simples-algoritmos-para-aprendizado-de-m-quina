@@ -29,7 +29,10 @@ Não há dicas.
 ```{python}
 print("Hello, world!")
 ```
-
+`@sct`
+```{python}
+Tente denovo.
+```
 
 
 
