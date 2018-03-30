@@ -24,15 +24,15 @@ Passe a string `"Hello, world!"` como parâmetro para a função `print`.
 Não há dicas.
 
 
-
+`@sample_code`
+```{python}
+print('Aprendendo Python')
+```
 `@solution`
 ```{python}
 print("Hello, world!")
 ```
-`@sct`
-```{python}
-Tente denovo.
-```
+
 
 
 
