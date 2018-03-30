@@ -15,10 +15,10 @@ skills: 2
 key: f75c0e3b31
 ```
 
-
+Nesse exercício faremos nosso primeiro programa em Python.
 
 `@instructions`
-
+Passe a string `"Hello, world!"` como parâmetro para a função `print`.
 
 `@hint`
 Não há dicas.
