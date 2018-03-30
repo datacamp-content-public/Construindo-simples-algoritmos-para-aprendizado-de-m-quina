@@ -1,9 +1,11 @@
 ---
 title: Test
-description: Test
+description: >-
+  Test
+
 
 ---
-## Sample exercise
+## Imprimindo "Hello, world"
 
 ```yaml
 type: NormalExercise
@@ -14,26 +16,18 @@ key: f75c0e3b31
 ```
 
 
+
 `@instructions`
 
+
 `@hint`
+Não há dicas.
 
-`@pre_exercise_code`
-```{python}
 
-```
 
-`@sample_code`
-```{python}
 
-```
 
-`@solution`
-```{python}
 
-```
 
-`@sct`
-```{python}
 
-```
+
